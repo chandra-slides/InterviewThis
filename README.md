@@ -1,5 +1,7 @@
 # Interview the Interviewer
 
+Check out [Twipped's original repo](https://github.com/Twipped/InterviewThis)
+
 ## Important refernces: 
 
 - [General questions](https://www.freecodecamp.org/news/how-to-interview-your-interviewers-f8f65ac57b80/)
