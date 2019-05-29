@@ -13,7 +13,7 @@ This is not a checklist, this is not a shopping list. If you send this entire li
 
 The questions on this list are not all appropriate for the initial interview, many could not even be answered by the HR person likely to conduct an initial interview. This list is intended to be a comprehensive collection of things a developer may want to know about a company before they accept an offer.
 
-Use your discretion when choosing what questions to ask and when to ask them. Testing-ignore commit.
+Use your discretion when choosing what questions to ask and when to ask them. 
 
 # Interview This!
 
